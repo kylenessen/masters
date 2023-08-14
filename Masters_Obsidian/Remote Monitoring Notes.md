@@ -52,6 +52,6 @@ I spent some time with chatGPT to elvauate how to guy the mast. Here are the sum
     
     - The material, diameter, height, weight, and base stability of the pole itself are crucial factors to consider for overall system stability.
 
-![[Pasted image 20230813200135.png]]
+![[guy_diagram.png]]
 
 From the website, they recommend dacron, which is resistant to stretching. I think I can buy all the guying accessories from the site and have just one order purchase. 

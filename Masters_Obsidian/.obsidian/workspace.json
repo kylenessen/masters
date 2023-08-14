@@ -19,11 +19,9 @@
             "id": "c6c09828def6793f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Remote Monitoring Notes.md",
-                "mode": "source",
-                "source": false
+                "file": "Assests/guy_diagram.png"
               }
             }
           }
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Remote Monitoring Notes.md",
+                "file": "Assests/guy_diagram.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Remote Monitoring Notes.md",
+                "file": "Assests/guy_diagram.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Remote Monitoring Notes.md"
+                "file": "Assests/guy_diagram.png"
               }
             }
           }
@@ -156,11 +154,11 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "c6c09828def6793f",
+  "active": "709c0fc4245e3a0d",
   "lastOpenFiles": [
-    "Pasted image 20230813200135.png",
-    "Assests/guy_line_example.png",
     "Remote Monitoring Notes.md",
+    "Assests/guy_diagram.png",
+    "Assests/guy_line_example.png",
     "Assests/camera_monitoring_setup.png",
     "Assests"
   ]
