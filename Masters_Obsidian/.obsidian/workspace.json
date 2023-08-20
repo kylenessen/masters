@@ -165,7 +165,8 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": false
+      "zk-prefixer:Create new unique note": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
   "active": "c6c09828def6793f",
