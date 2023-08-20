@@ -21,7 +21,7 @@ They look strong, and can be used with power tools, which will be a big help in 
 
 For the masting pole, I explored widely, but found this 50ft pole that has really thought through the problem:
 
- 
+ https://mgs4u.com/product/50-feet-heavy-duty-fiberglass-push-up-mast-mk-8-hd/
 
 It's not cheap, but there should be budget. Also having the extra height should be very useful, as monarchs can easily be above 30ft. 
 

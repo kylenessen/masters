@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-08-14.md",
+                "file": "Remote Monitoring Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-08-14.md",
+                "file": "Remote Monitoring Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-08-14.md",
+                "file": "Remote Monitoring Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-08-14.md"
+                "file": "Remote Monitoring Notes.md"
               }
             }
           }
@@ -170,8 +170,9 @@
   },
   "active": "c6c09828def6793f",
   "lastOpenFiles": [
-    "Remote Monitoring Notes.md",
+    "2023-08-18.md",
     "2023-08-14.md",
+    "Remote Monitoring Notes.md",
     "Assests/guy_diagram.png",
     "Assests/guy_line_example.png",
     "Assests/camera_monitoring_setup.png",
