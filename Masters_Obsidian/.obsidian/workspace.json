@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Remote Monitoring Notes.md",
+                "file": "Trail Camera Selection.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Remote Monitoring Notes.md",
+                "file": "Trail Camera Selection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Remote Monitoring Notes.md",
+                "file": "Trail Camera Selection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Remote Monitoring Notes.md"
+                "file": "Trail Camera Selection.md"
               }
             }
           }
@@ -183,10 +183,14 @@
   },
   "active": "ff2462883fc9f7ba",
   "lastOpenFiles": [
+    "Assests/roscolux_congo_blue.jpg",
+    "Assests/NIR_looking_up_cloudy.jpg",
+    "Assests/NIR_looking_up_sunny.jpg",
+    "2023-08-20.md",
+    "2023-08-14.md",
+    "2023-08-18.md",
     "Trail Camera Selection.md",
     "Remote Monitoring Notes.md",
-    "2023-08-18.md",
-    "2023-08-14.md",
     "Assests/guy_diagram.png",
     "Assests/guy_line_example.png",
     "Assests/camera_monitoring_setup.png",

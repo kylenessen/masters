@@ -17,5 +17,6 @@
   "zk-prefixer",
   "outline",
   "word-count",
-  "file-recovery"
+  "file-recovery",
+  "sync"
 ]
