@@ -1,6 +1,5 @@
 
-Spent some time today thinking through how to use cameras to remotely monitor monarch clusters. 
-
+Spent some time today thinking through how to use cameras to remotely monitor monarch clusters.
 I came up with this design, which I illustrated using Rhino. The file can be found on my Althouse and Meade OneDrive, but should probably be moved to the github. 
 
 ![[camera_monitoring_setup.png]]
