@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3b0f28b6598e1798",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "c6c09828def6793f",
             "type": "leaf",
             "state": {
@@ -33,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trail Camera Selection.md",
+                "file": "Project Requirements Sketch for Pismo Wind Study.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trail Camera Selection.md",
+                "file": "Project Requirements Sketch for Pismo Wind Study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trail Camera Selection.md",
+                "file": "Project Requirements Sketch for Pismo Wind Study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trail Camera Selection.md"
+                "file": "Project Requirements Sketch for Pismo Wind Study.md"
               }
             }
           }
@@ -171,6 +163,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -183,17 +176,28 @@
   },
   "active": "ff2462883fc9f7ba",
   "lastOpenFiles": [
-    "Assests/roscolux_congo_blue.jpg",
-    "Assests/NIR_looking_up_cloudy.jpg",
-    "Assests/NIR_looking_up_sunny.jpg",
+    "Remote Monitoring Notes.md",
+    "Project Requirements Sketch for Pismo Wind Study.md",
+    "Trail Camera Selection.md",
+    "2023-08-22.md",
+    "2023-08-21.md",
+    "IMG_5316.jpeg",
+    "LlamaLog_upside_down.png",
+    "FunStorm_upside_down.png",
+    "Pasted Image 20230822150716_943.png",
+    "Pasted Image 20230822143604_768.png",
+    "Excalidraw/Project Requirements Sketch for Pismo Wind Study 2023-08-22 14.09.54.excalidraw.md",
+    "Approximate project requirements for Pismo Wind Study.md",
+    "Excalidraw/Approximate project requirements for Pismo Wind Study 2023-08-22 13.23.31.excalidraw.md",
+    "Excalidraw",
+    "Pasted image 20230821211253.png",
+    "Pasted image 20230821210816.png",
+    "Pasted image 20230821132250.png",
+    "Pasted image 20230821132217.png",
+    "Pasted image 20230821131911.png",
     "2023-08-20.md",
     "2023-08-14.md",
     "2023-08-18.md",
-    "Trail Camera Selection.md",
-    "Remote Monitoring Notes.md",
-    "Assests/guy_diagram.png",
-    "Assests/guy_line_example.png",
-    "Assests/camera_monitoring_setup.png",
     "Assests"
   ]
 }
