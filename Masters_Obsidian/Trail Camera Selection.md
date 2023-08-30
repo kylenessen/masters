@@ -31,13 +31,13 @@ Below are some photos showing some of the modifications I did.
 This image is of the camera module within the unit. Adjusting focus is straightforward, simply turn the lens till the image is in focus. They glue the threads at the factory to keep the focus, but it is easy to breakthrough.
 
 Readjusting the focus is necessary, as the removal of the ir filter causes the images to be blurry initially. 
-![[IMG_5306.jpeg]]
+![[camera_trap_component.jpeg]]
 
 Here I have taken the lens off the sensor. The rectangle in the center is where the IR filter was. I simply removed it by breaking the glass and taking out the fragments with tweezers. 
-![[IMG_5307.jpeg]]
+![[camera_filter_closeup.jpeg]]
 
 Here I'm showing the "congo blue" filter that I put in front of the lens so I can get the NIR light to predominately shine through. Obviously, some blue light also gets through, polluting the image. Proper IR cut filters exist that we can purchase for this purpose. 
-![[IMG_5311.jpeg]]
+![[blue_filter.jpeg]]
 
 ### Testing modified camera in a monarch grove
 
@@ -58,7 +58,7 @@ In my figure at the beginning of the document, I show a pole on a tripod, but af
 Why I like this approach is that it allows for a secure pole design that is flexible in the field to setup. It can be used with any long poles, including some that we have on hand, or any long extending pole. 
 
 I did a test with some string found that it worked well. It was important that it was anchored at the very top to minimize movement. While I didn't have strong winds, it seems pretty robust. 
-![[IMG_5284.jpeg]]
+![[guy_line_pole_example.jpeg]]
 
 # Potential Cameras
 ## Basic Cameras
@@ -91,7 +91,7 @@ https://amzn.to/3snF50Q
 **Cost**: 70
 **Cellular**: $650 for five months unlimited images
 
-![[Pasted image 20230821132250.png]]
+![[Moultrie.png]]
 
 #### Pros
 - Relatively cheap

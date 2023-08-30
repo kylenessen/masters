@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Remote Monitoring Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff2462883fc9f7ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project Requirements Sketch for Pismo Wind Study.md",
+                "file": "Cal Poly SOW.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Requirements Sketch for Pismo Wind Study.md",
+                "file": "Cal Poly SOW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Requirements Sketch for Pismo Wind Study.md",
+                "file": "Cal Poly SOW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Requirements Sketch for Pismo Wind Study.md"
+                "file": "Cal Poly SOW.md"
               }
             }
           }
@@ -174,27 +161,43 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ff2462883fc9f7ba",
+  "active": "c6c09828def6793f",
   "lastOpenFiles": [
     "Remote Monitoring Notes.md",
+    "Xerces RFP Language.md",
+    "Daily Notes/2023-08-21.md",
+    "Daily Notes/2023-08-14.md",
+    "Daily Notes/2023-08-22.md",
+    "Daily Notes/2023-08-23.md",
+    "Daily Notes/2023-08-20.md",
+    "Daily Notes/2023-08-29.md",
+    "Daily Notes",
+    "Untitled",
+    "Assests/Pasted image 20230821131205.png",
+    "Assests/Pasted image 20230821132217.png",
+    "Assests/Pasted image 20230821211253.png",
+    "Assests/Pasted image 20230821131911.png",
+    "Assests/Pasted image 20230821210816.png",
+    "Assests/Pasted Image 20230822143604_768.png",
+    "Assests/Moultrie.png",
+    "Assests/LlamaLog_upside_down.png",
+    "Assests/example_wind_meter_setup.jpeg",
+    "example_wind_meter_setup.jpeg",
+    "Ian and Mirjam Wedding Script.md",
+    "Cal Poly SOW.md",
+    "Untitled.md",
+    "2023-08-29.md",
+    "2023-08-28.md",
+    "2023-08-25.md",
+    "2023-08-23.md",
+    "2023-08-22.md",
     "Project Requirements Sketch for Pismo Wind Study.md",
     "Trail Camera Selection.md",
-    "2023-08-22.md",
     "2023-08-21.md",
-    "IMG_5316.jpeg",
-    "LlamaLog_upside_down.png",
-    "FunStorm_upside_down.png",
-    "Pasted Image 20230822150716_943.png",
-    "Pasted Image 20230822143604_768.png",
     "Excalidraw/Project Requirements Sketch for Pismo Wind Study 2023-08-22 14.09.54.excalidraw.md",
     "Approximate project requirements for Pismo Wind Study.md",
     "Excalidraw/Approximate project requirements for Pismo Wind Study 2023-08-22 13.23.31.excalidraw.md",
     "Excalidraw",
-    "Pasted image 20230821211253.png",
-    "Pasted image 20230821210816.png",
-    "Pasted image 20230821132250.png",
-    "Pasted image 20230821132217.png",
-    "Pasted image 20230821131911.png",
     "2023-08-20.md",
     "2023-08-14.md",
     "2023-08-18.md",

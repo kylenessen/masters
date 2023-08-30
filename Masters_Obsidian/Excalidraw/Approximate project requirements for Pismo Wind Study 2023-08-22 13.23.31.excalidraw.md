@@ -28,7 +28,7 @@ LiDAR Overview ^7JG4pyRz
 
 
 # Embedded files
-1346f6104b85e4f523017ec1c431a9529c2dd1e5: [[Pasted Image 20230822150716_943.png]]
+1346f6104b85e4f523017ec1c431a9529c2dd1e5: [[Pismo_monarch_grove_lidar.png]]
 
 %%
 # Drawing
