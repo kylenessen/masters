@@ -1,0 +1,292 @@
+{
+  "main": {
+    "id": "cdf9e859556365a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "e752edb7a37b7ef2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f25ba3335ccb6d92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wind Meter Rigging Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21dead4af8eb2828",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VSFB Remote Monitoring Project Description.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ff448a1127288c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trail Camera Selection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cad5615a42c65dca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pismo Wind Study Description.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e26d54b56189de2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/2023-09-20 2023-09-20 17.48.22.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "d03ad21834fe30ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Requirements Sketch for Pismo Wind Study.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "faee44859cfaa11d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Project Requirements Sketch for Pismo Wind Study 2023-08-22 14.09.54.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "c0c1ddbaaacd3a85",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Permits/DPR065_Monarch Wind Study.pdf"
+              }
+            }
+          },
+          {
+            "id": "b78b052d0e0648bc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Approximate project requirements for Pismo Wind Study 2023-08-22 13.23.31.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "2c9920ae7be19408",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assests/camera_monitoring_setup.png"
+              }
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be80ff665046b194",
+    "type": "split",
+    "children": [
+      {
+        "id": "791ad1f6dff1b557",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60a408087504ddf9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "22a560bad5b4de87",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c02944ca63e9614",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6556c479e594b9b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "29392137f72decf0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5866c29873526fe5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Permits/DPR065_Monarch Wind Study.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "daa00543ff640453",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Permits/DPR065_Monarch Wind Study.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b868367393391c41",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dc33bbdcb539d04e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Permits/DPR065_Monarch Wind Study.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c0c1ddbaaacd3a85",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-09-23 18.50.29.excalidraw.md",
+    "Permits/DPR065_Monarch Wind Study.pdf",
+    "Permits",
+    "Excalidraw/Project Requirements Sketch for Pismo Wind Study 2023-08-22 14.09.54.excalidraw.md",
+    "Project Requirements Sketch for Pismo Wind Study.md",
+    "Excalidraw/Approximate project requirements for Pismo Wind Study 2023-08-22 13.23.31.excalidraw.md",
+    "Approximate project requirements for Pismo Wind Study.md",
+    "Assests/camera_monitoring_setup.png",
+    "Assests/camera_filter_closeup.jpeg",
+    "Excalidraw/2023-09-20 2023-09-20 17.48.22.excalidraw.md",
+    "Excalidraw/Cal Poly SOW 2023-08-30 17.04.18.excalidraw.md",
+    "Excalidraw/Cal Poly SOW 2023-08-30 17.04.18.excalidraw.png",
+    "Excalidraw/Cal Poly SOW 2023-09-01 14.42.56.excalidraw.md",
+    "Excalidraw/Cal Poly SOW 2023-09-01 15.49.41.excalidraw.md",
+    "Excalidraw/Remote Monitoring Setup Visual.md",
+    "Excalidraw/Wind Meter Rigging Notes 2023-09-20 13.46.51.excalidraw.md",
+    "100 Questions Outline.md",
+    "Remote Monitoring Notes.md",
+    "Trail Camera Selection.md",
+    "TWS 2023 Abstract.md",
+    "Wind Meter Rigging Notes.md",
+    "VSFB Remote Monitoring Project Description.md",
+    "2023-09-20.md",
+    "Published Memo Links.md",
+    "Pismo Wind Study Description.md",
+    "Working Group Meeting 4.md",
+    "Xerces RFP Language.md",
+    "Working Group Meeting 3.md",
+    "Assests/Sites Overview.pdf",
+    "Assests/Pasted Image 20230914161051_027.jpg",
+    "Assests/Pasted Image 20230914154351_924.png",
+    "Assests/logo.svg",
+    "Assests/Pasted Image 20230914161021_016.png",
+    "Assests/Pasted Image 20230914154653_004.png",
+    "Assests/Pasted Image 20230914154536_977.png",
+    "Assests/North Base Sites.pdf",
+    "Assests/IMG_5753.jpeg",
+    "Cal Poly SOW.md",
+    "Daily Notes/2023-09-13.md",
+    "Assests/South Base Sites.pdf"
+  ]
+}
