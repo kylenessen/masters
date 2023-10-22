@@ -46,7 +46,7 @@ Project: "[[Cal Poly SOW]]"
 - This is important for the model simulation step, so I know which wind speeds to input 
 - Wind data loggers will be installed as early as possible, and allowed to collect data throughout the overwintering period. 
 - Periodic data retrieval events will happen throughout the overwintering period, via the access cord as described in the figure above
-![[Cal Poly SOW 2023-08-30 17.04.18.excalidraw]]
+![[grove sensor placement diagram]]
 ### LiDAR Dataset
 - In order to recreate the forest structure, LiDAR data will be captured of the selected site
 - The Cal Poly Environmental Geospatial Systems will lend its UAV aircraft to capture high density point cloud
@@ -68,6 +68,6 @@ Project: "[[Cal Poly SOW]]"
 ### Sensitivity Analysis
 
 ## Timeline
-![[Cal Poly SOW 2023-09-01 15.49.41.excalidraw]]
+![[wind study timeline]]
 ## Deliverables
 

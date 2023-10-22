@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e752edb7a37b7ef2",
+        "id": "3fc08b35eb08d6f4",
         "type": "tabs",
         "children": [
           {
-            "id": "f25ba3335ccb6d92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wind Meter Rigging Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21dead4af8eb2828",
+            "id": "9e98d58eb02e8073",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,19 +20,7 @@
             }
           },
           {
-            "id": "8ff448a1127288c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Trail Camera Selection.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cad5615a42c65dca",
+            "id": "888e7142cc7ac4a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,69 +32,39 @@
             }
           },
           {
-            "id": "7e26d54b56189de2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/2023-09-20 2023-09-20 17.48.22.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "d03ad21834fe30ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project Requirements Sketch for Pismo Wind Study.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "faee44859cfaa11d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Project Requirements Sketch for Pismo Wind Study 2023-08-22 14.09.54.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "c0c1ddbaaacd3a85",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Permits/DPR065_Monarch Wind Study.pdf"
-              }
-            }
-          },
-          {
-            "id": "b78b052d0e0648bc",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Approximate project requirements for Pismo Wind Study 2023-08-22 13.23.31.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "2c9920ae7be19408",
+            "id": "caf0991737e6c334",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Assests/camera_monitoring_setup.png"
+                "file": "Assests/Pasted image 20230830164514.png"
+              }
+            }
+          },
+          {
+            "id": "ad400a91e873abd4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/wireless computer diagram.md"
+              }
+            }
+          },
+          {
+            "id": "4cd6448536394c13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-08-20.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -184,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Permits/DPR065_Monarch Wind Study.pdf",
+                "file": "2023-08-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Permits/DPR065_Monarch Wind Study.pdf",
+                "file": "2023-08-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Permits/DPR065_Monarch Wind Study.pdf"
+                "file": "2023-08-20.md"
               }
             }
           }
@@ -246,47 +192,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0c1ddbaaacd3a85",
+  "active": "4cd6448536394c13",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-09-23 18.50.29.excalidraw.md",
+    "2023-08-14.md",
+    "100 Questions Outline.md",
+    "Excalidraw/wireless computer diagram.md",
+    "Excalidraw/wind study timeline.md",
+    "Excalidraw/Wind Meter Rigging Notes 2023-09-20 13.46.51.excalidraw.md",
+    "Excalidraw/wind meter dimensions.md",
+    "Excalidraw/Untitled 2023-09-14 15.43.21.excalidraw.md",
+    "Excalidraw/Remote Monitoring Setup Visual.md",
+    "Excalidraw/Remote Monitoring Setup version 2.md",
+    "Excalidraw/grove sensor placement diagram.md",
+    "Excalidraw/Project Requirements Sketch for Pismo Wind Study 2023-08-22 14.09.54.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-08 11.40.40.excalidraw.md",
+    "Excalidraw/example figure for remote monitoring study.md",
+    "Excalidraw/Drawing 2023-10-08 10.01.03.excalidraw.md",
+    "Excalidraw/Cal Poly SOW 2023-09-01 15.49.41.excalidraw.md",
+    "Excalidraw/Cal Poly SOW 2023-09-01 14.42.56.excalidraw.md",
+    "Excalidraw/Cal Poly SOW 2023-08-30 17.04.18.excalidraw.png",
+    "Excalidraw/Approximate project requirements for Pismo Wind Study 2023-08-22 13.23.31.excalidraw.md",
+    "Assests/Pasted image 20230821131205.png",
+    "Assests/Pasted image 20230821131911.png",
+    "2023-08-29.md",
+    "Pasted Image 20230914161021_016.png",
+    "Pasted Image 20230914154351_924.png",
+    "Pasted Image 20230914161051_027.jpg",
+    "Pasted Image 20230914154653_004.png",
+    "Pasted Image 20230914154536_977.png",
+    "IMG_5306.jpeg",
+    "Excalidraw/Cal Poly SOW 2023-08-30 17.04.18.excalidraw.md",
+    "2023-08-21.md",
+    "Approximate project requirements for Pismo Wind Study.md",
+    "2023-08-22.md",
+    "Ian and Mirjam Wedding Script.md",
+    "Notes on first download.md",
+    "2023-08-30.md",
+    "2023-08-23.md",
+    "Assests/blue_filter.jpeg",
+    "Assests/North Base Sites.pdf",
     "Permits/DPR065_Monarch Wind Study.pdf",
     "Permits",
-    "Excalidraw/Project Requirements Sketch for Pismo Wind Study 2023-08-22 14.09.54.excalidraw.md",
-    "Project Requirements Sketch for Pismo Wind Study.md",
-    "Excalidraw/Approximate project requirements for Pismo Wind Study 2023-08-22 13.23.31.excalidraw.md",
-    "Approximate project requirements for Pismo Wind Study.md",
-    "Assests/camera_monitoring_setup.png",
-    "Assests/camera_filter_closeup.jpeg",
-    "Excalidraw/2023-09-20 2023-09-20 17.48.22.excalidraw.md",
-    "Excalidraw/Cal Poly SOW 2023-08-30 17.04.18.excalidraw.md",
-    "Excalidraw/Cal Poly SOW 2023-08-30 17.04.18.excalidraw.png",
-    "Excalidraw/Cal Poly SOW 2023-09-01 14.42.56.excalidraw.md",
-    "Excalidraw/Cal Poly SOW 2023-09-01 15.49.41.excalidraw.md",
-    "Excalidraw/Remote Monitoring Setup Visual.md",
-    "Excalidraw/Wind Meter Rigging Notes 2023-09-20 13.46.51.excalidraw.md",
-    "100 Questions Outline.md",
-    "Remote Monitoring Notes.md",
-    "Trail Camera Selection.md",
-    "TWS 2023 Abstract.md",
-    "Wind Meter Rigging Notes.md",
-    "VSFB Remote Monitoring Project Description.md",
-    "2023-09-20.md",
-    "Published Memo Links.md",
-    "Pismo Wind Study Description.md",
-    "Working Group Meeting 4.md",
-    "Xerces RFP Language.md",
-    "Working Group Meeting 3.md",
     "Assests/Sites Overview.pdf",
-    "Assests/Pasted Image 20230914161051_027.jpg",
-    "Assests/Pasted Image 20230914154351_924.png",
-    "Assests/logo.svg",
-    "Assests/Pasted Image 20230914161021_016.png",
-    "Assests/Pasted Image 20230914154653_004.png",
-    "Assests/Pasted Image 20230914154536_977.png",
-    "Assests/North Base Sites.pdf",
-    "Assests/IMG_5753.jpeg",
-    "Cal Poly SOW.md",
-    "Daily Notes/2023-09-13.md",
     "Assests/South Base Sites.pdf"
   ]
 }
