@@ -1,0 +1,73 @@
+---
+title: "Status Update at Pismo Monarch Grove"
+date: "2023-10-29"
+author: "Kyle Nessen"
+format: html
+editor: visual
+---
+
+------------------------------------------------------------------------
+
+## Summary
+
+I visit the grove yesterday to download data, map sensor locations, determine how many are stuck, and test methods to get stuck sensors down.
+
+```{r}
+library(RSQLite)
+library(dplyr)
+
+get_db_file_paths <- function(directory_path, file_extension = "s3db") {
+  db_files <- list.files(path = directory_path, pattern = paste0("\\.", file_extension, "$"), full.names = TRUE)
+  return(db_files)
+}
+
+# Function to list tables in a database file
+list_tables_in_db <- function(db_path) {
+  con <- dbConnect(RSQLite::SQLite(), dbname = db_path)
+  tables <- dbListTables(con)
+  dbDisconnect(con)
+  return(tables)
+}
+
+# Usage
+directory_path <- "~/Documents/Code/masters/memos/data/sensors"
+db_file_paths <- get_db_file_paths(directory_path)
+
+# List tables in the first database file to verify the table names
+if(length(db_file_paths) > 0) {
+  table_names <- list_tables_in_db(db_file_paths[1])
+  print(table_names)
+}
+
+# Make sure to replace 'your_table_name' with the actual table name from the printout above
+table_name <- "actual_table_name_here"
+
+# Function to read and label data
+read_and_label_data <- function(db_path, table_name) {
+  con <- dbConnect(RSQLite::SQLite(), dbname = db_path)
+  df <- dbReadTable(con, table_name)
+  dbDisconnect(con)
+  sensorID <- tools::file_path_sans_ext(basename(db_path))
+  df$sensorID <- sensorID
+  return(df)
+}
+
+# Initialize an empty list to store dataframes
+df_list <- list()
+
+# Loop over db_files and read each database file into a dataframe
+for(db_path in db_file_paths) {
+  df <- read_and_label_data(db_path, table_name)
+  df_list[[db_path]] <- df
+}
+
+# Combine all dataframes into a single dataframe
+combined_df <- bind_rows(df_list)
+
+# Now 'combined_df' contains all the data with 'sensorID'
+
+```
+
+```{python}
+print('hello world')
+```

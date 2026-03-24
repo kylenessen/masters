@@ -22,10 +22,10 @@ UP trees may be better
 	- Image and blurb about what we are doing
 - How is this project different than Kiana's
 
-- [ ] Put together modeling brochure with study design and goals 
+- [x] Put together modeling brochure with study design and goals 
 	- Include examples from Ellwood
 	- Informational meeting about what we have done so far and how this will build on it
-- [ ] Think through how a dashboard can be incorporated during the overwintering season
+- [x] Think through how a dashboard can be incorporated during the overwintering season
 	- Counts
 	- Wind speeds
 	- time series

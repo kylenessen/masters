@@ -4,7 +4,7 @@ August 31th, 2023
 In my consulting work, I have developed wind modeling methods to gain more insight into how monarch overwintering groves create wind protection, and how proposed actions may change those wind conditions. 
 
 One example of this wind modeling approach was conducted at Ellwood Grove in Goleta, CA (figure below). We used drone derived LiDAR data to classify the overwintering grove into living (teal) and dead (orange) trees. This allowed us to simulate what wind conditions were like in existing conditions (top row), and what wind conditions might look like once the proposed project was executed (bottom row). The left column shows the 3D model of the forest used in our two simulation conditions, and the right columns shows the wind results. Blue areas are suitable wind conditions (<5 mph), yellow are marginal wind conditions (5-9 mph), and red is excessive conditions (>10 mph).
-![[Pasted image 20230830164514.png]]
+**![[Pasted image 20230830164514.png]]**
 While these methods appear to work for relative measures, they have not been validated with real world observations. The study outlined below is my current thinking on how to go about a validation exercise of wind simulations in monarch groves.
 ## Study Goal
 **Generate a validation dataset for wind modeling methods to be used in counter factual scenarios, such as restoration plans, can be investigated at Pismo Monarch Grove and other critical overwintering sites across California**

@@ -35,7 +35,6 @@ Monarch butterfly clusters ^j4GeLmkI
 2348ae316c73e662481840a96805047903643794: [[Pasted Image 20230914154351_924.png]]
 ff84a3be21880e1fe03676732e1cc651b71b25bf: [[Pasted Image 20230914154653_004.png]]
 1cd25c3c3cb22b759553c8bd05ce39b091515db8: [[windlogger.png]]
-59a640d52492f15e8b9657c2d443d9c7dbb62398: [[logo.svg]]
 5fabc54b4186ca9aa2b0c2958f39dfe7202fdb77: [[Pasted Image 20230914154536_977.png]]
 2482bb71ce9a5ee4f179887e4d7a8c6904e21f8e: [[Pasted Image 20230914161051_027.jpg]]
 
@@ -284,7 +283,7 @@ ff84a3be21880e1fe03676732e1cc651b71b25bf: [[Pasted Image 20230914154653_004.png]
 			"containerId": null,
 			"originalText": "50 ft",
 			"lineHeight": 1.15,
-			"baseline": 14
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -321,7 +320,7 @@ ff84a3be21880e1fe03676732e1cc651b71b25bf: [[Pasted Image 20230914154653_004.png]
 			"containerId": null,
 			"originalText": "4' 6\"",
 			"lineHeight": 1.15,
-			"baseline": 14
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -358,7 +357,7 @@ ff84a3be21880e1fe03676732e1cc651b71b25bf: [[Pasted Image 20230914154653_004.png]
 			"containerId": null,
 			"originalText": "15' 4\"",
 			"lineHeight": 1.15,
-			"baseline": 14
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -395,7 +394,7 @@ ff84a3be21880e1fe03676732e1cc651b71b25bf: [[Pasted Image 20230914154653_004.png]
 			"containerId": null,
 			"originalText": "26' 6\"",
 			"lineHeight": 1.15,
-			"baseline": 14
+			"baseline": 15
 		},
 		{
 			"type": "image",
@@ -474,7 +473,7 @@ ff84a3be21880e1fe03676732e1cc651b71b25bf: [[Pasted Image 20230914154653_004.png]
 			"containerId": null,
 			"originalText": "GardePro E Series",
 			"lineHeight": 1.15,
-			"baseline": 14
+			"baseline": 15
 		},
 		{
 			"type": "image",
@@ -553,7 +552,7 @@ ff84a3be21880e1fe03676732e1cc651b71b25bf: [[Pasted Image 20230914154653_004.png]
 			"containerId": null,
 			"originalText": "RainWise WindLog",
 			"lineHeight": 1.15,
-			"baseline": 14
+			"baseline": 15
 		},
 		{
 			"type": "arrow",
@@ -954,7 +953,7 @@ ff84a3be21880e1fe03676732e1cc651b71b25bf: [[Pasted Image 20230914154653_004.png]
 			"containerId": null,
 			"originalText": "8\"",
 			"lineHeight": 1.15,
-			"baseline": 14
+			"baseline": 15
 		},
 		{
 			"type": "text",
@@ -1121,13 +1120,13 @@ ff84a3be21880e1fe03676732e1cc651b71b25bf: [[Pasted Image 20230914154653_004.png]
 			"containerId": null,
 			"originalText": "Monarch butterfly clusters",
 			"lineHeight": 1.15,
-			"baseline": 14
+			"baseline": 15
 		},
 		{
 			"type": "image",
-			"version": 453,
-			"versionNonce": 651321883,
-			"isDeleted": false,
+			"version": 454,
+			"versionNonce": 1329949006,
+			"isDeleted": true,
 			"id": "6fK_OObnB_lu2_JAOOQxb",
 			"fillStyle": "solid",
 			"strokeWidth": 0.5,
@@ -1146,7 +1145,7 @@ ff84a3be21880e1fe03676732e1cc651b71b25bf: [[Pasted Image 20230914154653_004.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1695177493831,
+			"updated": 1706114363582,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -1172,10 +1171,10 @@ ff84a3be21880e1fe03676732e1cc651b71b25bf: [[Pasted Image 20230914154653_004.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 536.14375,
-		"scrollY": 523.7841005067568,
+		"scrollX": 720.09375,
+		"scrollY": 458.157495474578,
 		"zoom": {
-			"value": 1.25
+			"value": 0.8
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

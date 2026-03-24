@@ -5,7 +5,7 @@
   "includePluginCSS": "obsidian-excalidraw-plugin",
   "includeSvelteCSS": true,
   "makeNamesWebStyle": true,
-  "allowFoldingHeadings": true,
+  "allowFoldingHeadings": false,
   "addFilenameTitle": true,
   "beautifyHTML": false,
   "customLineWidth": "800",

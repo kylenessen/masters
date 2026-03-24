@@ -1,0 +1,9 @@
+flight_number,date,time,boostback,Temp (F),Change,Deployment,Video,Deployment,Video
+275,11/20/23,2:30:00,FALSE,,,No cameras available,,,
+278,12/1/23,10:19:00,TRUE,,,Maybe SC3,,,
+281,12/8/23,0:03:00,FALSE,51,No,SC4,https://youtu.be/RW91J3HMm_4?si=LM_TRjQAb_pA5lFN&t=104,,
+284,12/24/23,5:11:00,TRUE,46,No,SC6,https://youtu.be/MqmH5L3lXbk?si=6g8voV1f43D4lI5Y&t=207,,
+286,1/2/24,19:44:00,FALSE,53,No,SC6,https://youtu.be/MqmH5L3lXbk?si=aT3sviJN7YJ9i5bv&t=437,,
+289,1/14/24,0:59:00,FALSE,50,No ,SC8,https://youtu.be/AOWrySdh1z8?si=Pak3IK64mY7OlAMI&t=200,SC10,https://youtu.be/0zLjm9PA6YM?si=Bokwr4KQj_jWIxWe&t=224
+292,1/23/24,16:35:00,FALSE,55,No,SC10,https://youtu.be/0zLjm9PA6YM?si=Ve9XAPoi9p32KaN0&t=431,SC8 (behind year),https://youtu.be/AOWrySdh1z8?si=744XzLu4L5U3Pjx7&t=431
+294,1/28/24,21:57:00,FALSE,,,,,,
